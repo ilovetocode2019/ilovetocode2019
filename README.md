@@ -1,3 +1,3 @@
 ### Hello 👋
 
-Hi, I'm ilovetocode. I enjoy coding in my free time.
+I'm ilovetocode and I enjoy coding in my free time.
