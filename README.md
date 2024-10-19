@@ -1,5 +1,3 @@
 ### Hello 👋
 
-I'm ilovetocode and I enjoy coding in my free time.
-
-Check out https://ilovetocode.me for more information about me.
+I'm a student who takes interest in web development.
